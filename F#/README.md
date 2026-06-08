@@ -1,4 +1,4 @@
-# countdown的HTML实现
+# countdown的F#实现
 
 请输入文本！
 

@@ -1,8 +1,11 @@
 # countdown倒计时
+
+[![Check if code can be run](https://github.com/Jack-tendy-538/countdown/actions/workflows/check-commit.yml/badge.svg)](https://github.com/Jack-tendy-538/countdown/actions/workflows/check-commit.yml)
+
 用**5种语言**实现的倒计时应用，代码基本不涉及高级概念，适合**初学者**入门！
 
 ## :thinking: 怎么跑
-这个仓库用5们语言实现了倒计时程序，供8个项目，彼此相对独立（但可能用了相同的库）
+这个仓库用门语言实现了倒计时程序，共八个项目，彼此相对独立（但可能用了相同的库）
 可以自定义倒计时的名称与时长，支持“开始”、“暂停”与“重置”操作。具体如下表：
 | 语言 | 项目名 | UI模式 |
 |------|-----|-----|
@@ -10,6 +13,7 @@
 |  | countdown_tkinter | GUI |
 | C# | CountdownShell | shell |
 | | CountdownAvalonia | GUI |
+| F# | Countdown | shell |
 | C++ | countdown_shell | shell |
 | HTML | Countdown | GUI(网页) |
 | shell | countdown(pwsh&bash) | shell |
